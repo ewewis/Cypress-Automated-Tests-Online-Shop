@@ -1,0 +1,19 @@
+{
+  "name": "cypress-projekt",
+  "version": "1.0.0",
+  "description": "automatyzacja testów w cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "automatyzacja",
+    "cypress",
+    "testy"
+  ],
+  "author": "Ewelina Wisińska",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.0.1"
+  }
+}
