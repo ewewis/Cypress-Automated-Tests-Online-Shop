@@ -16,24 +16,23 @@ This repository contains automated tests for the website [http://www.automationp
 
 2. Install the dependencies:
 
+   ```bash
    npm install
 
 ## Running the Tests
 
 There are two ways to run the tests:
 
-Open Cypress Test Runner
+1. Open Cypress Test Runner
 To open Cypress and run tests interactively:
 
  ```bash
-
 npx cypress open
 
 This will open the Cypress Test Runner, allowing you to select and run individual tests.
 
-Run Tests in Headless Mode
+2. Run Tests in Headless Mode
 To run all the tests without opening the Test Runner (ideal for CI/CD pipelines):
 
  ```bash
-
 npx cypress run
