@@ -31,6 +31,7 @@ To open Cypress and run tests interactively:
 
 This will open the Cypress Test Runner, allowing you to select and run individual tests.
 
+
 2. Run Tests in Headless Mode
 To run all the tests without opening the Test Runner (ideal for CI/CD pipelines):
 
