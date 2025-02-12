@@ -26,13 +26,13 @@ There are two ways to run the tests:
 1. Open Cypress Test Runner
 To open Cypress and run tests interactively:
 
- ```bash
-npx cypress open
+   ```bash
+   npx cypress open
 
 This will open the Cypress Test Runner, allowing you to select and run individual tests.
 
 2. Run Tests in Headless Mode
 To run all the tests without opening the Test Runner (ideal for CI/CD pipelines):
 
- ```bash
-npx cypress run
+   ```bash
+   npx cypress run
